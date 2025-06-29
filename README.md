@@ -6,7 +6,7 @@ Built by your neighborhood frontend sensei **Rakesh Raj S.**, this legendary **T
 
 ## 🌄 Sneak Peek – Project Preview 🖼️
 
-![Preview](./tictactae.png)
+![Preview](./tictactoe.png)
 
 *Minimal UI. Smooth animations. Rage-quit worthy restarts. Bliss.*
 
